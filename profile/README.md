@@ -1,6 +1,4 @@
-<a href="https://www.reddit.com/r/JEENEETards/"> 
 <h1 align="center">r/JEENEETards</h1>
-</a>
 
 ![Frame 8-2](https://github.com/rJEENEETards/.github/assets/73933669/461a5d98-6a67-45b4-b2db-91ea78d8b17f)
 
